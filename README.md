@@ -1,5 +1,5 @@
 # 我们还有以下顶级软件产品
-- AutumnMark 免费开源markdown编辑器，typora的更好替代。下载地址：[官方网站](https://autumn-one.github.io/autumnmark/)
+- AutumnMark(新品可用) 免费开源markdown编辑器，typora的更好替代。下载地址：[官方网站](https://autumn-one.github.io/autumnmark/)
 - keydoing(未开放) 地表最强旗舰效率软件。
 - keycaps(可用) 强大的效率工具，keydoing的子集，集合了caps大写键改写为快捷键、屏幕边缘指令触发、保存时自动跳转到最近访问目录等功能。[官方网站](https://autumn-one.github.io/keycaps/)
 - RedDot(可用) 一个输入法中英文状态提示软件，在你的光标旁边显示红色圆点（中文状态），绿色圆点（英文状态），下载地址: [RedDot下载](https://github.com/Autumn-one/RedDot)
